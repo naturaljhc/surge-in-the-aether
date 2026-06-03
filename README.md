@@ -49,7 +49,7 @@ public/
 │   └── card-backs/     # Cosmetic card backs
 ├── data/
 │   └── card_data.json  # Card metadata (sets, rarities, etc.)
-└── fonts/              # Custom fonts (FinalF)
+└── fonts/              # Custom fonts (FinalF, Rajdhani, etc.)
 
 docs/
 └── prd.md              # Detailed game specification
@@ -67,7 +67,7 @@ docs/
 1. **Clone the repository**
    ```bash
    git clone <repo>
-   cd fftcg-sim
+   cd surge-in-the-aether
    ```
 
 2. **Install dependencies**
